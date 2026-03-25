@@ -16,8 +16,7 @@ Hola, mi nombre es Nicolás Zamora y mi Proyecto web desarrollado en PHP con est
 - PHP
 - Bootstrap 5 (Futuro Front)
 - MySQL
-- JavaScript
+- JavaScript (JS)
 - CSS
 
-## Proyecto desarrollado por Nicolás Zamora
-
+## Próximamente, creación de roles para cada usuario y sus respectivas interfaces.
