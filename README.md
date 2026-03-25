@@ -1,6 +1,6 @@
 # Sistema de Gestión para ventas de piezas 3d.
 
-Hola, mi nombre es Nicolás Zamora y mi lProyecto web desarrollado en PHP con estructura organizada, autenticación y panel de usuarios.
+Hola, mi nombre es Nicolás Zamora y mi Proyecto web desarrollado en PHP con estructura organizada, autenticación y panel de usuarios.
 
 ## Fase: **Alpha**
 
