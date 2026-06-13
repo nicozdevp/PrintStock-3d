@@ -1,0 +1,7 @@
+/vendor/
+.env
+.DS_Store
+Thumbs.db
+
+# Configuración local con credenciales reales
+config/database.php
